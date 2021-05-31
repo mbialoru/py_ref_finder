@@ -1,0 +1,2 @@
+givemebib>=1.0.2
+pdfx>=1.4.1
